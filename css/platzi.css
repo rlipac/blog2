@@ -1,0 +1,222 @@
+
+body {
+    
+     font-family: 'Droid Serif', serif;
+      margin:0;
+}
+
+.background {
+    background:#2c3e50;
+    background-size: cover;
+    height: 65px;
+    margin-bottom: 20px; 
+}
+
+.header { 
+    color: white; 
+    padding: 10px; 
+    
+}
+
+.logo {
+    width: 95px;
+    height: 45px;
+}
+
+
+hr {
+    width: 292px;
+    margin: auto;
+}
+
+ img {
+    width: 330px;
+    height: 300px;
+    margin-right: 0;
+}
+
+
+
+header span {
+    color: white;
+    font-size: 27px;
+    margin-left: 10px;
+
+}
+
+
+
+.button{
+    border-radius: 5px;
+    background: #EF4836    ;
+    color: white; 
+    border: none;
+    padding: 4px 7px;
+    cursor: pointer; /* cursor del maus*/
+    font-size: 16px;
+    background: linear-gradient(to left,#FF4500, #FF7F50 ); /*color degradado*/
+    text-decoration: none;
+
+}
+
+.button2 {
+    margin-right: -5px;
+    border-radius: 3px;
+    background: black;
+    color: gray;
+    border: none;
+    padding: 10px 10px 10px 10px;
+    cursor: pointer; /* cursor del maus*/
+    font-size: 18px; 
+    text-decoration: none;
+}
+
+.button3 {
+    border-radius: 5px;
+    background: black;
+    color: gray;
+    border: none;
+    padding: 10px;
+    cursor: pointer; /* cursor del maus*/
+    font-size: 15px; 
+    text-decoration: none;
+}
+
+
+
+
+.menu {
+   
+    font-size:21px;
+    display:inline-block;
+   
+   
+}
+
+.menu2 {
+   
+    display: inline;
+}
+
+.menu ul {
+    position: relative;
+    top: -60px;
+    left: 722px;
+}
+
+.menu2 ul {
+    position: relative;
+    top: -60px;
+    left: 722px;
+}
+
+
+.menu a {
+    color: white;
+    text-decoration:none;
+}
+
+.menu2 a {
+    color: black;
+    text-decoration:none;
+    background: #ebeceb;
+}
+
+
+
+.menu li {
+    display: inline-block;
+    margin-left: 20px;
+}
+.menu2 li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+ .portada {
+    background-image: url('../images/0.jpg');
+    margin: auto;
+    width: 1050px;
+    height: 600px;
+} 
+
+
+
+.contenedor2 {
+    width: 1050px;
+    margin: auto;
+    margin-bottom: 25px;
+   
+}
+
+
+.imagenes {
+    margin: 0;
+  display: flex;
+  justify-content:space-around; 
+}
+
+
+
+.fotos {
+    width: 345px;
+    display: block;
+   
+}
+
+.fotos p {
+    font-size: 19px;
+    padding: 10px;
+    
+}
+
+ .targeta {
+     background: #ecf0f1;
+     opacity: 0.7;
+     width: 420px;
+     height: 160px;
+     padding: 13px;
+     position: relative;
+     top: 390px;
+     left: 55px;
+    
+}
+
+
+.targeta img {
+    width: 50px;
+    height: 50px;
+      
+}
+
+
+.targeta2 {
+    width: 350px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.targeta2 p {
+    font-size: 11px;
+}
+
+.targeta h2 {
+    margin-left: 20px;
+    padding-bottom: 5px;
+}
+
+.footer {
+    width: 700px;
+    margin: auto;
+    
+}
+
+.pages {
+    
+   margin-bottom: 40px;
+}
+
+
+
+
